@@ -1,0 +1,4 @@
+/home/abdullah/Work/socket_test/c++/build/CMakeFiles/server.dir
+/home/abdullah/Work/socket_test/c++/build/CMakeFiles/client.dir
+/home/abdullah/Work/socket_test/c++/build/CMakeFiles/edit_cache.dir
+/home/abdullah/Work/socket_test/c++/build/CMakeFiles/rebuild_cache.dir
